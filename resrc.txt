@@ -10,28 +10,9 @@ With that being said, the idea of bioprinting is catching on rapidly. From 2008 
 
 https://www.youtube.com/watch?v=s3CiJ26YS_U
 
-testing pharmaceutical
-printed skin is an Alternative to animal use in research
- INCOORPORATE 
-
-Now 3-D printing is poised to usher in a new frontier in medicine, where the toxicity of drugs can be tested on living human tissue instead of animals, and personalized treatments are delivered to patients.
-
-harmaceuticals. It was created from a set of biochemical inks, which means doses of the drug can be customized for each drug recipient.
-
-And bioprinting allows for testing drug therapies on more than just animal cells.
-
-In April, Organovo signed deals with Merck and L'Oreal to share its 3-D-printing technology for the creation of skin and other types of cells.
-
-For her part, Lewis is passionate about the changes that 3-D printing could bring to the pharmaceutical industry. Billions of dollars each year are spent on drug development that fails. If bioprinted tissues were readily available, experimental drugs could be tested on them to see how the drugs are metabolized and what side effects result. “We want to provide a fail-fast model,” Lewis said, “so that drugs can be assessed in 3-D human tissue and their toxic properties identified before spending money and effort in animal and human testing.”
-
-
-“What was once only possible in science fiction is moving ever closer to commercial reality,” said RBCC CEO Kimberly Palmer. “Bioprinting can change the world for the better in terms of eradicating or mitigating the effect of disease through personalized drugs, in tissue restoration and repair, and even cosmetic surgery.
-
-
-Bioprinting also opens up new ways of producing prescription pills. In August the Food and Drug Administration approved the first prescription drug developed via 3-D printing — a seizure medication for people with epilepsy, called Spritam, developed by Aprecia Pharmaceuticals. It was created from a set of biochemical inks, which means doses of the drug can be customized for each drug recipient.
-
-"People have failures when they look at liver toxicity, because rat models aren't perfectly predictive," said Keith Murphy, CEO of California-based bioprinting company Organovo, which has been bioprinting liver tissue that can be used to test the safety and efficacy of certain drugs in treating liver diseases. "What we're able to show, so far, is we've been highly predictive of the true, eventual human impact of those drugs."
 
  Harvard Bioengineers create cyborg tissue.
+
+
 
 http://www.openbiomedical.org/3d-bioprinting-close-are-we-to-printing-our-organs-from-desktop-printer/
